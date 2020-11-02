@@ -5,7 +5,6 @@ package TopInterviewQuestions.Strings;
  */
 public class ReverseInteger {
     
-    // integer is signed
     private static int reverse(int x) {
         int reversed = 0;
         
